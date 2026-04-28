@@ -11,12 +11,9 @@ Sempre focado em criar soluções que realmente funcionam e impactam, buscando s
 ## 🚀 Tecnologias em aprendizado
 
 - `Java`
-- `Java Script`
-- `Spring Boot`
 - `MySQL`
 - `SQL`
 - `Git & GitHub`
-- `APIs REST`
 - `Linux (básico)`
 
 
